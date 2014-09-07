@@ -1,6 +1,5 @@
 Name,Status
 "Genady Okrain",Going
-"Mike Waizman",Going
 "Salavat Khanov",Going
 "Daniel Chernenkov",Going
 "Andrey Bukati",Going
@@ -26,11 +25,12 @@ Name,Status
 "Dana Schipper",Going
 "Anton Stremovskiy",Going
 "Eyal Keren",Going
-"Tomer Bronshtain",Going
+"Luda Fux",Going
 "Alex Wolkov",Going
 "Arthur Vainer",Going
 "Henn Idan",Going
 "Hagai Pipko",Going
+"Michal Hecht",Going
 "Idan Shalom",Going
 "Jonathan Schipper",Going
 "Yair Kivaiko",Going
@@ -41,6 +41,7 @@ Name,Status
 "Eytan Schulman",Maybe
 "Ido Ben-Yair",Maybe
 "Max Step",Maybe
+"Aviel Lazar",Maybe
 "Sagee Ben-Zedeff",Maybe
 "Yanir Bar Weiss",Maybe
 "Dan Caspi",Maybe
@@ -52,7 +53,6 @@ Name,Status
 "Goldy Gold",Maybe
 "Edan Maor",Maybe
 "Alon Barnea",Maybe
-"Eran Ben Sabat",Maybe
 "Idan Ratzabi",Maybe
 "Ariel Kahan",Maybe
 "Rona Litan",Maybe
@@ -93,7 +93,6 @@ Name,Status
 "Natanel Niazoff",Invited
 "Shay Danan",Invited
 "Omri Moran",Invited
-"Oded Argon",Invited
 "Guy Schlider",Invited
 "Tal Binyamin",Invited
 "Guy Isacar",Invited
@@ -112,7 +111,6 @@ Name,Status
 "Shanni Sroor",Invited
 "Eran C. Galili",Invited
 "Edo Cohen",Invited
-"Aviel Lazar",Invited
 "Sergey Maiorov",Invited
 "Yael Kochman",Invited
 "Elad Gariany",Invited
@@ -214,10 +212,10 @@ Name,Status
 "Eido Gat",Invited
 "Ziv Constantine Kitaro",Invited
 "Natasha Shine-Zirkel",Invited
-"Niv Calderon",Invited
 "Omri Shaiko",Invited
 "Udi Lumnitz",Invited
 "Dori Dembinsky",Invited
+"Neta Vardi",Invited
 "Orli Yakuel",Invited
 "Gil Megidish",Invited
 "Alex Gutman",Invited
