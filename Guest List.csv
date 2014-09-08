@@ -1,7 +1,7 @@
 Name,Status
 "Genady Okrain",Going
-"Salavat Khanov",Going
 "Daniel Chernenkov",Going
+"Yanin Elbi",Going
 "Andrey Bukati",Going
 "Roy Povarchik",Going
 "Sash Zats",Going
@@ -10,9 +10,7 @@ Name,Status
 "Alan Weinkrantz",Going
 "Alex Zhitnitsky",Going
 "Omri Baumer",Going
-"Alon Rosh",Going
 "Dganit Amitay",Going
-"Tai Kaish",Going
 "Gal Granov",Going
 "Niv Ben-porath",Going
 "Erez Rusovsky",Going
@@ -21,6 +19,7 @@ Name,Status
 "Itai Moses-Chai Nathaniel",Going
 "Keren Brown",Going
 "Maxim Veksler",Going
+"Yael Rozencwajg",Going
 "Omri Ariav",Going
 "Dana Schipper",Going
 "Anton Stremovskiy",Going
@@ -34,16 +33,18 @@ Name,Status
 "Idan Shalom",Going
 "Jonathan Schipper",Going
 "Yair Kivaiko",Going
-"Dikla Cohen",Going
+"Oren De-Panther Weizman",Going
+"David M Kalman",Going
+"Niv Calderon",Going
 "Biana Kleyner",Going
 "Nir Kouris",Going
 "Alex Zchut",Maybe
-"Eytan Schulman",Maybe
 "Ido Ben-Yair",Maybe
 "Max Step",Maybe
-"Aviel Lazar",Maybe
 "Sagee Ben-Zedeff",Maybe
+"Marcio Klepacz",Maybe
 "Yanir Bar Weiss",Maybe
+"Natalie Zumchenko",Maybe
 "Dan Caspi",Maybe
 "Daniel Kopitchinski",Maybe
 "Shimon Shvartsbroit",Maybe
@@ -78,8 +79,8 @@ Name,Status
 "Efim Polevoi",Invited
 "Oriel Vat",Invited
 "Michael Matias",Invited
-"Yanin Elbi",Invited
 "Rotem Tsabary",Invited
+"Anna Rosenberg",Invited
 "Yosi Dahan",Invited
 "Yaara Karmy",Invited
 "Yuri Meseznik",Invited
@@ -115,6 +116,7 @@ Name,Status
 "Yael Kochman",Invited
 "Elad Gariany",Invited
 "Ronen Mendezitsky",Invited
+"Natan Rolnik",Invited
 "Benny Hod",Invited
 "Shlomi Atar",Invited
 "Amir Krayden",Invited
@@ -158,6 +160,7 @@ Name,Status
 "Oleg Vusiker",Invited
 "Eytan Avigdor",Invited
 "Shachar Binyamin",Invited
+"Adam Siton",Invited
 "Aviv Ben-Yosef",Invited
 "Guy Avigdor",Invited
 "Tal Muskal",Invited
@@ -165,12 +168,14 @@ Name,Status
 "Roy Munin",Invited
 "Nimrod Gat",Invited
 "Lior Grossman",Invited
+"Yael Tamar",Invited
 "Amir Naor",Invited
 "Yaniv David",Invited
 "Yosi Taguri",Invited
 "Chen Harel",Invited
 "Dana Geva",Invited
 "Rami Gluzman",Invited
+"Tom Susel",Invited
 "Ohad Folman",Invited
 "Yair Bar-On",Invited
 "Kfir Pravda",Invited
@@ -178,6 +183,8 @@ Name,Status
 "Eyal Livne",Invited
 "Yoni Tsafir",Invited
 "Daniel Grumer",Invited
+"Simon Hanukaev",Invited
+"Tomer Shiri",Invited
 "Yogev Ahuvia",Invited
 "Yoav Hornung",Invited
 "Amit Davidi",Invited
@@ -188,10 +195,10 @@ Name,Status
 "Nir Ben Yona Shein",Invited
 "Ofer Ben-Noon",Invited
 "Leon Vaidman",Invited
+"Roniet Berci",Invited
 "Nadav Moskovitz",Invited
 "Ron Jack Rains",Invited
 "Iris Shoor",Invited
-"Oren De-Panther Weizman",Invited
 "Lior Manor",Invited
 "Noa Cohen",Invited
 "Michal Waltner",Invited
@@ -203,7 +210,6 @@ Name,Status
 "Ron Miller",Invited
 "Shai Mishali",Invited
 "Nimrod Gutman",Invited
-"Ronny Orbach",Invited
 "Noam Avigdor",Invited
 "Uri Haramati",Invited
 "Arik Fraimovich-Almog",Invited
